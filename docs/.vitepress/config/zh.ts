@@ -90,7 +90,8 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         { text: '什么是 VitePress？', link: 'what-is-vitepress' },
         { text: '快速开始', link: 'getting-started' },
         { text: '路由', link: 'routing' },
-        { text: '部署', link: 'deploy' }
+        { text: '部署', link: 'deploy' },
+        { text: '部署记录', link: 'deployment-notes' }
       ]
     },
     {
